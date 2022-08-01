@@ -4,9 +4,8 @@
 
 body {
     background-color: #000000;
-    color: #007b21;
-    font-size: 1.6rem;
-    font-family: 'Fira mono', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',sans-serif;
+    color: #ffffff;
+  
 }
 .Main{
     display: flex;
